@@ -3,6 +3,7 @@ This is the repo for 2022 AICUP crops recognition competition
 
 you should install following module:
 
+- Python 3.7
 - Torch 1.7.1
 - Torchvision 0.8.2
 - Albumentations 1.0.3
